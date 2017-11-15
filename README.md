@@ -1,0 +1,2 @@
+# meanstackapp
+MEAN Stack application 
